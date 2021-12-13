@@ -24,7 +24,7 @@ function App() {
             <button type="button" className="btn btn-warning mt-3 ms-3">Edit</button>
 
             </div>
-            
+            <button type="button" className="btn btn-success mt-3 ms-3">Submit</button>
           </div>
           )
 
